@@ -1,0 +1,3 @@
+[submodule "themes/mytheme"]
+	path = themes/mytheme
+	url = git@github.com:i-am-hansode/hugo-sample-theme.git
