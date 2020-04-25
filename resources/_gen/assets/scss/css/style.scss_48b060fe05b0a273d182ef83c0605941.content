@@ -1,0 +1,1 @@
+.header{text-align:center}@media screen and (min-width:1024px){.main{width:1000px;display:flex;margin:0 auto}}@media screen and (max-width:1023px){.main{margin:16px 0}}@media screen and (min-width:1024px){.article{width:700px}}@media screen and (min-width:1024px){.aside{width:300px}}.footer{text-align:center}
