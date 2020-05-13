@@ -8,9 +8,9 @@ theme = "mytheme"
     archive = "archives"
 
 [related]
-    threshold = 100
+    threshold = 50
     includeNewer = true
     toLower = false
     [[related.indices]]
         name = "tags"
-        weight = 30
+        weight = 100
